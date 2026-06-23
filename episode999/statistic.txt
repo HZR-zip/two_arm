@@ -1,0 +1,15 @@
+48.8084
+topic:
+camera/color/left 1455 29.926
+camera/color/front 1455 29.926
+camera/color/right 1455 29.926
+arm/jointState/masterLeft 9764 200.016
+arm/jointState/masterRight 9763 200.019
+arm/jointState/puppetLeft 9763 200.013
+arm/jointState/puppetRight 9762 200.013
+localization/pose/puppetLeft 9761 200.011
+localization/pose/puppetRight 9761 200.011
+config:
+camera/color/left 1
+camera/color/front 1
+camera/color/right 1
